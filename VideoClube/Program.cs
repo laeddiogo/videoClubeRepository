@@ -10,7 +10,7 @@ namespace VideoClube
     {
         static void Main(string[] args)
         {
-
+             
         }
     }
 }
